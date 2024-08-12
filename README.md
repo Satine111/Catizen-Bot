@@ -16,8 +16,8 @@ Catizen Bot is a comprehensive automation solution designed to enhance your Cati
 
 ## Prices
 - **1 Week**: 3 USDT
-- **1 Month**: 5 USDT
-- **Lifetime**: 9 USDT
+- **1 Month**: 7 USDT
+- **Lifetime**: 10 USDT
 
 ## Contact
 Reach me at [t.me/azamjawaa](https://t.me/azamjawaa) for more information.
