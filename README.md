@@ -12,6 +12,7 @@ Catizen Bot is a comprehensive automation solution designed to enhance your Cati
 - **Multi-Account**: Manage multiple accounts.
 - **Support RDP/VPS/Termux**: Compatible with various os platforms.
 - **Less Memory/CPU Usage**: Optimized for efficient memory usage.
+- **Support Proxy**
 - **And many more features**: Numerous additional features to help you speed up Catizen!
 
 ## Prices
