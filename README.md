@@ -15,7 +15,6 @@ Catizen Bot is a comprehensive automation solution designed to enhance your Cati
 - **And many more features**: Numerous additional features to help you speed up Catizen!
 
 ## Prices
-- **2 Week**: 3 USDT
 - **1 Month**: 6 USDT
 - **Lifetime**: 10 USDT
 
