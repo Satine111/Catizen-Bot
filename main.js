@@ -1,7 +1,5 @@
 # Catizen Bot
 
-Catizen Bot is a comprehensive automation solution designed to enhance your Catizen gaming experience. This bot is equipped with a variety of features to help you speed up the game and maximize your gains.
-
 ## Features
 - **Auto Merge**: Automatically merge your cats.
 - **Auto Boost**: Boost your speed and efficiency.
@@ -16,7 +14,7 @@ Catizen Bot is a comprehensive automation solution designed to enhance your Cati
 - **And many more features**: Numerous additional features to help you speed up Catizen!
 
 ## Prices
-- **1 Month**: 6 USDT
+- **1 Month**: 5 USDT
 - **Lifetime**: 10 USDT
 
 ## Contact
