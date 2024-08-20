@@ -12,10 +12,15 @@
 - **Less Memory/CPU Usage**
 - **Support Proxy**
 
-## Prices
-- **1 Month**: 4 USDT / Rp.50.000
-- **Lifetime**: 7 USDT / Rp. 100.000
+## Prices Script
+- **1 Month**: 5 USDT / Rp.75.000 (Unlimited Account)
+- **Lifetime**: 8 USDT / Rp.120.000 (Unlimited Account)
 
-Level 40+ under 9Days! Proof?Chat me
+## JASTIP/RENT Catizen Bot Run 24Hours
+Only need Query
+- **1Month**: 3 USDT / Rp.35.000 (Max 5 Acc)
+- **Lifetime**: 5 USDT / Rp.70.000 (Max 5 Acc)
+Level 70-100 in 1 Month!
+
 ## Contact
 Reach me at [t.me/azamjawaa](https://t.me/azamjawaa) for more information.
