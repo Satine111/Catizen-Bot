@@ -13,8 +13,8 @@
 - **Support Proxy**
 
 ## Prices
-- **1 Month**: 4 USDT
-- **Lifetime**: 9 USDT
+- **1 Month**: 4 USDT / Rp.50.000
+- **Lifetime**: 7 USDT / Rp. 100.000
 
 Level 40+ under 9Days! Proof?Chat me
 ## Contact
