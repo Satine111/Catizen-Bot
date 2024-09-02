@@ -1,5 +1,8 @@
 # Catizen Bot
 
+![image](https://github.com/user-attachments/assets/956dd03e-2e8e-4b19-a45e-fafccdbb16de)
+
+
 ## Features
 - **Auto Merge**
 - **Auto Boost**
