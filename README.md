@@ -16,8 +16,8 @@
 - **Support Proxy**
 
 ## Prices Script
-- **1 Month**: 5 USDT / Rp.70.000 (Unlimited Account)
-- **Lifetime**: 9 USDT / Rp.130.000 (Unlimited Account)
+- **1 Month**: 4 USDT / Rp.50.000 (Unlimited Account)
+- **Lifetime**: 7 USDT / Rp.70.000 (Unlimited Account)
 
 ## Contact
 Reach me at [t.me/azamjawaa](https://t.me/azamjawaa) for more information.
