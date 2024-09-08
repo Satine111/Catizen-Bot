@@ -20,4 +20,4 @@
 - **Lifetime**: 6 USDT / Rp.70.000 (Unlimited Account)
 
 ## Contact
-Reach me at [t.me/azamjawaa](https://t.me/azamjawaa) for more information.
+Reach me at [t.me/azamjawaa](https://t.me/azamjawaa) for more information
